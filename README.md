@@ -1,6 +1,7 @@
 ### About:
 
 🚀 **Software Engineer | Full-Stack Developer | DevSecOps**
+
 I love building scalable apps, tinkering with new tech, and turning ideas into code.  
 When I’m not coding, I’m probably learning, breaking stuff, and fixing it twice as fast.  
 
